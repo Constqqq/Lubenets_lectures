@@ -1,0 +1,1 @@
+from my_package import hello_from_package
